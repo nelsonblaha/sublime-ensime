@@ -1,7 +1,7 @@
 import sublime, os, traceback, functools, sys
 from functools import partial as bind
 import sexp
-from sexp import key, sym
+from sexp import *
 from paths import *
 
 def locations(window):
