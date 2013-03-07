@@ -97,6 +97,8 @@ so we'll do our best to do a polished release around the time of the final relea
 
 ## How to use?
 
+Add [ensime-sbt-cmd](https://github.com/aemoncannon/ensime-sbt-cmd) to your project.
+
 Open the Sublime command palette (typically bound to `Ctrl+Shift+P`) and type `Ensime: Startup`.
 
 If you don't have an Ensime project, the plugin will guide you through creating it.
